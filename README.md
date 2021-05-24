@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @finnng
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently learning clean architect
 - 💞️ I’m looking to collaborate on data analytic
 - 📫 How to reach me: nguyennb9@gmail.com
 
