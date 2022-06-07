@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @finnng
-- 👀 I’m interested in ...
+- 👀 I’m interested in software design in general
 - 🌱 I’m currently learning clean architect
-- 💞️ I’m looking to collaborate on data analytic
-- 📫 How to reach me: nguyennb9@gmail.com
+- 📫 How to reach me: nguyennb@protonmail.com
 
 <!---
 finnng/finnng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
