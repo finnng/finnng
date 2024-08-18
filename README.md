@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @finnng
-- 👀 https://finnng.hashnode.dev/
+- 👀 https://nguyengineer.dev/
