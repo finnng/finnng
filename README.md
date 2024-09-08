@@ -8,4 +8,4 @@
  and Typescript <img src="https://www.typescriptlang.org/icons/icon-144x144.png" width="20">
 - ⚙️ I love both building distributed systems and the artistry of creating a single binary that efficiently uses minimal resources to accomplish as much as possible.
 - 📚 My humble Stackoverflow
-  - <a href="https://stackexchange.com/users/1791773"><img src="https://stackexchange.com/users/flair/1791773.png" width="208" height="58" alt="profile for Finn on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Finn on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+  - <a href="https://stackexchange.com/users/1791773"><img src="https://stackexchange.com/users/flair/1791773.png?theme=dark" width="208" height="58" alt="profile for Finn on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Finn on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
