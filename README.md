@@ -12,3 +12,4 @@
 - My projects:
   - [vimtricks.wiki](https://vimtricks.wiki)
   - [markdowntorichtext.click](https://markdowntorichtext.click)
+  - [k8s nodes proxy](https://github.com/finnng/k8s-node-proxy)
